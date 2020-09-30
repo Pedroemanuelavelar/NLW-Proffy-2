@@ -2,7 +2,7 @@
 <br>
 <br>
 
-![alt text](https://github.com/Pedroemanuelavelar/NLW-Proffy-2/web/src/assets/images/ "Logo Title Text 1")
+![alt text](https://github.com/Pedroemanuelavelar/NLW-Proffy-2/proffy.png "Preview Application")
 
 <quote> Plataforma dedicada a profeessores e a alunos </quote>
 
